@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59958920970",
+    "project_id": "basicnavi-b8583",
+    "storage_bucket": "basicnavi-b8583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59958920970:android:94cb4a35dac998393d1cf3",
+        "android_client_info": {
+          "package_name": "com.example.basic_navi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59958920970-ksand3mvp8lrmtpoaj84msotg8t5840g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basic_navi",
+            "certificate_hash": "e13e854f863df3b3afa58d85a80d3786534246e8"
+          }
+        },
+        {
+          "client_id": "59958920970-nsnv2uigctroib1jnma5qed83rrct68b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxq6m5xX_8D1xMmUnzpt238jkbM0UMmm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59958920970-nsnv2uigctroib1jnma5qed83rrct68b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
